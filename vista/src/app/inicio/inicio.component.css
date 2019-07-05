@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+footer{
+	color: #000;
+	padding:10px;
+	text-align: center;
+}
+
+
+#tarjetas{
+	margin: auto;
+}
